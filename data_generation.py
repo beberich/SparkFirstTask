@@ -15,6 +15,7 @@ def data_quality():
 
 
 def generation_data(*args):
+    """Создание кортежа данных"""
     return tuple(*args)
 
 
