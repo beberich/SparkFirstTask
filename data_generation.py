@@ -11,7 +11,7 @@ findspark.init()
 
 def data_quality():
     """Функция для проверки качества данных"""
-    pass
+    ...
 
 
 def generation_data(*args):
